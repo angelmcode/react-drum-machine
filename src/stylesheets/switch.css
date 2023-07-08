@@ -1,0 +1,42 @@
+.switch {
+    border: 1px solid black;
+    width: 90px;
+    height: 25px;
+    background-color: lightcyan;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    cursor: pointer;
+}
+
+.switch2 {
+    border: 1px solid black;
+    width: 90px;
+    height: 25px;
+    background-color: lightcyan;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+}
+
+.container_switch {
+    border: 1px solid black;
+}
+
+.p_switch {
+    margin: 2px;
+    border: 1px solid black;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.switch_on_off {
+    border: 1px solid black;
+    width: 45px;
+    height: 25px;
+    background-color: aqua;
+    box-shadow: 1px 1px 2px;
+    cursor: pointer;
+}

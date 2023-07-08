@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(15, 67, 116);
+}
+
+.container_app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 50px;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 14px;
+}

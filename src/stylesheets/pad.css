@@ -1,0 +1,31 @@
+.drum-pad {
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    box-shadow: 5px 5px 5px blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-family: Arial;
+    color: white;
+    cursor: pointer;
+}
+
+.drum-pad-press {
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    /* box-shadow: 5px 5px 5px blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-family: Arial;
+    color: white;
+    cursor: pointer;
+}
